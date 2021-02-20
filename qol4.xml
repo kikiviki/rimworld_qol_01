@@ -1,0 +1,536 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModList>
+	<Name>qol4</Name>
+	<modIds>
+		<li>brrainz.harmony</li>
+		<li>ludeon.rimworld</li>
+		<li>ludeon.rimworld.royalty</li>
+		<li>fluffy.modmanager</li>
+		<li>unlimitedhugs.hugslib</li>
+		<li>erdelf.humanoidalienraces</li>
+		<li>automatic.gunplay</li>
+		<li>roolo.dualwield</li>
+		<li>com.yayo.combat3</li>
+		<li>oskarpotocki.vanillafactionsexpanded.core</li>
+		<li>vanillaexpanded.achievements</li>
+		<li>unlimitedhugs.allowtool</li>
+		<li>brrainz.achtung</li>
+		<li>neronix17.toolbox</li>
+		<li>falconne.aff</li>
+		<li>madeline.modmismatchformatter</li>
+		<li>crashm.colorcodedmoodbar.11</li>
+		<li>voult.betterpawncontrol</li>
+		<li>falconne.bwm</li>
+		<li>fluffy.blueprints</li>
+		<li>neceros.bulksmelting</li>
+		<li>fuglypump.bulkstonecutting</li>
+		<li>captainmuscles.callouts</li>
+		<li>brrainz.cameraplus</li>
+		<li>void.charactereditor</li>
+		<li>captainmuscles.chillout</li>
+		<li>azuraal.choiceofpsycasts</li>
+		<li>fluffy.colonymanager</li>
+		<li>avilmask.commonsense</li>
+		<li>petetimessix.compacthediffs</li>
+		<li>dninemfive.d9framework</li>
+		<li>caesarv6.damageindicators</li>
+		<li>unlimitedhugs.defensivepositions</li>
+		<li>fluffy.desirepaths</li>
+		<li>captainmuscles.prioritizeresearch</li>
+		<li>tikubonn.dontblockdoor</li>
+		<li>syrchalis.doormats</li>
+		<li>dubwise.dubsmintmenus</li>
+		<li>dubwise.dubsbreakmod</li>
+		<li>dubwise.dubsmintminimap</li>
+		<li>dubwise.dubspaintshop</li>
+		<li>dubwise.dubsperformanceanalyzer</li>
+		<li>dubwise.dubsskylights</li>
+		<li>jecrell.jecstools</li>
+		<li>edb.preparecarefully</li>
+		<li>jaschaephraim.endlessrimworld</li>
+		<li>uuugggg.everybodygetsone</li>
+		<li>etrt.medicineproduction</li>
+		<li>etrt.rimworldtweaks</li>
+		<li>daniledman.fastregen</li>
+		<li>crlsniper.realisticrooms</li>
+		<li>frozensnowfox.filthvanisheswithrainandtime</li>
+		<li>fluffy.fluffybreakdowns</li>
+		<li>fluffy.followme</li>
+		<li>denethor0.gainskillpassions</li>
+		<li>captainmuscles.gotosleep</li>
+		<li>telefonmast.graphicssettings</li>
+		<li>kittahkhan.grazeup</li>
+		<li>avilmask.grazinglands</li>
+		<li>frozensnowfox.growablegrass</li>
+		<li>syrchalis.harvestyieldpatch</li>
+		<li>jkluch.haultostack</li>
+		<li>ivelischt.rimworld.uncooledhay</li>
+		<li>falconne.heatmap</li>
+		<li>notooshabby.homemover</li>
+		<li>orion.hospitality</li>
+		<li>arquebus.hotseat</li>
+		<li>arandomkiwi.huntforme</li>
+		<li>inoshishi3.combatsounds</li>
+		<li>undone.igniteeverything</li>
+		<li>400.impassablehchestudeephwater</li>
+		<li>jaxe.bubbles</li>
+		<li>insertkey.itemlistselector</li>
+		<li>codeoptimist.jobsofopportunity</li>
+		<li>brrainz.justignoremepassing</li>
+		<li>ubergarm.kanbanstockpile</li>
+		<li>arandomkiwi.killforme</li>
+		<li>falconne.labelsonfloor</li>
+		<li>krafs.levelup</li>
+		<li>rimfridge.kv.rw</li>
+		<li>lwm.deepstorage</li>
+		<li>sixdd.littlestorage2</li>
+		<li>krkr.locks2</li>
+		<li>ratys.madskills</li>
+		<li>zylle.mapdesigner</li>
+		<li>unlimitedhugs.mapreroll</li>
+		<li>cucumpear.embrasures</li>
+		<li>fluffy.medicaltab</li>
+		<li>neceros.metaldontburn</li>
+		<li>alien.milkablemuffalo</li>
+		<li>erdelf.minifyeverything</li>
+		<li>mlie.morefactioninteraction</li>
+		<li>moretraitslots.kv.rw</li>
+		<li>hobtook.mortaraccuracy</li>
+		<li>neceros.mud</li>
+		<li>oblitus.mylittleplanet</li>
+		<li>netrve.dsgui</li>
+		<li>dingo.noforcedslowdown</li>
+		<li>doug.nojobauthors</li>
+		<li>bar0th.norandomrelations</li>
+		<li>smuffle.harvestorganspostmortem</li>
+		<li>zyxabacab.nosympathyforprisoners</li>
+		<li>ogre.ogrestack</li>
+		<li>com.bymarcin.architecticons</li>
+		<li>proxyer.optionalicons4ai</li>
+		<li>murmur.oocmovespeedboost</li>
+		<li>fed1splay.pawntargetfix</li>
+		<li>wtfomgjohnny.perishable</li>
+		<li>fluffy.pharmacist</li>
+		<li>mlie.pickupandhaul</li>
+		<li>neitsa.preparelanding</li>
+		<li>longercfloor.proxyheat</li>
+		<li>hatti.qualitybuilder</li>
+		<li>ogliss.thewhitecrayon.quarry</li>
+		<li>hatti.qualitysurgeon</li>
+		<li>machine.rtr</li>
+		<li>brrainz.rangefinder</li>
+		<li>woolstrand.realruins</li>
+		<li>mlie.realistichumansounds</li>
+		<li>saucypigeon.realisticplanets</li>
+		<li>twistedpacifist.reasonablecomponents</li>
+		<li>automatic.recipeicons</li>
+		<li>uuugggg.replacestuff</li>
+		<li>vinalx.researchpalforked</li>
+		<li>jaxe.rimhud</li>
+		<li>mlie.rimquest</li>
+		<li>arandomkiwi.rimsaves</li>
+		<li>falconne.roomsense</li>
+		<li>mobius.royaltytweaks</li>
+		<li>ratys.rtfuse</li>
+		<li>roolo.runandgun</li>
+		<li>user19990313.runtimegc</li>
+		<li>roolo.searchanddestroy</li>
+		<li>syrchalis.setupcamp</li>
+		<li>sf.grim.reality</li>
+		<li>uuugggg.sharetheload</li>
+		<li>targhetti.showdrafteesweapon</li>
+		<li>erdelf.showmoddesignators</li>
+		<li>gguake.ui.simplesearchbar</li>
+		<li>mlie.storagesearch</li>
+		<li>uuugggg.smartmedicine</li>
+		<li>sarg.smartspeed</li>
+		<li>dhultgren.smarterconstruction</li>
+		<li>pinochemicali.skilledstonecutting</li>
+		<li>mlie.simplymorebridges</li>
+		<li>weilbyte.snapout</li>
+		<li>marvinkosh.sometimesraidsgowrong</li>
+		<li>linkolas.stabilize</li>
+		<li>indeed.stackxxl</li>
+		<li>zhrocks11.stackablechunks</li>
+		<li>automatic.startupimpact</li>
+		<li>neceros.stopinsultingus</li>
+		<li>balistafreak.stopdropandroll</li>
+		<li>fluffy.stuffedfloors</li>
+		<li>murmur.subsurfaceconduit</li>
+		<li>com.yayo.suppression</li>
+		<li>mlie.suprememelee</li>
+		<li>ghxx.techadvancing</li>
+		<li>murmur.tcu</li>
+		<li>captainmuscles.priceiswhat</li>
+		<li>murmur.threatpointcap</li>
+		<li>tickspersecond.sparr.rw</li>
+		<li>gt.sam.tilledsoil</li>
+		<li>timmyliang.tradehelper</li>
+		<li>tradingspot.kv.rw</li>
+		<li>carnysenpai.traitraritycolors</li>
+		<li>jelly.transportcargopod</li>
+		<li>marvinkosh.ughyougotme</li>
+		<li>grimm.unlimited</li>
+		<li>murmur.walllight</li>
+		<li>ogliss.wanderjoinsplus</li>
+		<li>cozarkian.wateriscold</li>
+		<li>uuugggg.whatismypurpose</li>
+		<li>co.uk.epicguru.whatsthatmod</li>
+		<li>tammybee.whereismyweapon</li>
+		<li>walkingproblem.wildanimalsex</li>
+		<li>fluffy.worktab</li>
+		<li>revolus.whatsmissing</li>
+		<li>roolo.almostthere</li>
+		<li>fluffy.areaunlocker</li>
+		<li>razor2.3.anotherrimworldmod.autocutblight</li>
+		<li>pinochemicali.cheapercomponents</li>
+		<li>odeum.wmbp</li>
+		<li>neronix17.hd.pawns</li>
+		<li>frozensnowfox.advancedbionicsexpansion</li>
+		<li>sulusdacor.james76543.meltup.advancedpowerplus</li>
+		<li>sarg.alphaanimals</li>
+		<li>atlas.androidtiers</li>
+		<li>xrushha.animaanimals</li>
+		<li>omm.syntheticsmanufacturing</li>
+		<li>oblitus.animalslogic</li>
+		<li>meltup.beautifuloutdoors</li>
+		<li>lbmaian.begonemessage</li>
+		<li>frozensnowfox.betterspiketraps</li>
+		<li>solaris.bioreactor</li>
+		<li>automatic.bionicicons</li>
+		<li>goudaquiche.bloodandstains</li>
+		<li>brrainz.carefulraids</li>
+		<li>hatti.cleaningarea</li>
+		<li>n7huntsman.combatshields</li>
+		<li>torann.craftableplasteel</li>
+		<li>neceros.lagfreelamps</li>
+		<li>petetimessix.simplesidearms</li>
+		<li>vanillaexpanded.vaeas</li>
+		<li>vanillaexpanded.vaeau</li>
+		<li>vanillaexpanded.vaebf</li>
+		<li>vanillaexpanded.vaecd</li>
+		<li>vanillaexpanded.vaed</li>
+		<li>vanillaexpanded.vaeendandext</li>
+		<li>vanillaexpanded.vaeed</li>
+		<li>vanillaexpanded.vaeis</li>
+		<li>vanillaexpanded.vaetf</li>
+		<li>vanillaexpanded.vaetr</li>
+		<li>vanillaexpanded.vaets</li>
+		<li>vanillaexpanded.vaet</li>
+		<li>vanillaexpanded.vee</li>
+		<li>oskarpotocki.vanillaexpanded.royaltypatches</li>
+		<li>oskarpotocki.vfe.insectoid</li>
+		<li>oskarpotocki.vanillafactionsexpanded.medievalmodule</li>
+		<li>oskarpotocki.vanillafactionsexpanded.settlersmodule</li>
+		<li>oskarpotocki.vfe.vikings</li>
+		<li>vanillaexpanded.vfecore</li>
+		<li>vanillaexpanded.vfemedical</li>
+		<li>vanillaexpanded.vfepower</li>
+		<li>vanillaexpanded.vfeproduction</li>
+		<li>vanillaexpanded.vfesecurity</li>
+		<li>vanillaexpanded.vfespacer</li>
+		<li>vse.empressevil</li>
+		<li>vse.freyafierce</li>
+		<li>vse.igorinvader</li>
+		<li>vse.perrypersistent</li>
+		<li>vanillaexpanded.vtexe</li>
+		<li>vanillaexpanded.vanillatraitsexpanded</li>
+		<li>vfme.caravanpacks</li>
+		<li>drzhivago.docworld</li>
+		<li>cucumpear.azrael.varietycoats</li>
+		<li>sineswiper.xenobionicpatcher</li>
+		<li>thebird956.doublepopulation</li>
+		<li>milk.randyandcassandra</li>
+		<li>neceros.reinforcedwalls</li>
+		<li>zhrocks11.letstrade</li>
+		<li>i8memo.plants.plants1</li>
+		<li>vanillaexpanded.vappe</li>
+		<li>vanillaexpanded.varme</li>
+		<li>showhair.kv.rw</li>
+		<li>erin.hairredux</li>
+		<li>reel.hair</li>
+		<li>automatic.gradienthair</li>
+		<li>vanillaexpanded.vhe</li>
+		<li>neceros.givememeat</li>
+		<li>shakesthespeare.rimsecsecurity</li>
+		<li>riddle78.sealed.power.armour</li>
+		<li>vanillaexpanded.vweq</li>
+		<li>mattthewaz.weaponstab</li>
+		<li>neceros.badcanbegood</li>
+		<li>automatic.autocleaner</li>
+		<li>roolo.giddyupcore</li>
+		<li>roolo.giddyupcaravan</li>
+		<li>roolo.giddyupbattlemounts</li>
+		<li>sarg.giddyupsaddles</li>
+		<li>murmur.incidentdisabler</li>
+		<li>gewen.additionaltraits</li>
+		<li>roolo.giddyuprideandroll</li>
+		<li>windowsxp.tradeshipsnomatterwhat</li>
+	</modIds>
+	<modNames>
+		<li>Harmony</li>
+		<li>Core</li>
+		<li>Royalty</li>
+		<li>Mod Manager</li>
+		<li>HugsLib</li>
+		<li>Humanoid Alien Races 2.0</li>
+		<li>Gunplay</li>
+		<li>Dual Wield</li>
+		<li>Yayo's Combat 3</li>
+		<li>Vanilla Expanded Framework</li>
+		<li>Vanilla Achievements Expanded</li>
+		<li>Allow Tool</li>
+		<li>Achtung!</li>
+		<li>[O21] Toolbox</li>
+		<li>Avoid Friendly Fire</li>
+		<li>Better ModMismatch Window</li>
+		<li>CM Color Coded Mood Bar [1.1+]</li>
+		<li>Better Pawn Control</li>
+		<li>Better Workbench Management</li>
+		<li>Blueprints</li>
+		<li>Bulk Smelting</li>
+		<li>Bulk Stonecutting</li>
+		<li>Callouts</li>
+		<li>Camera+</li>
+		<li>Character Editor</li>
+		<li>Chill the F*** Out</li>
+		<li>Choice Of Psycasts</li>
+		<li>Colony Manager</li>
+		<li>Common Sense</li>
+		<li>Compact Hediffs</li>
+		<li>D9 Framework</li>
+		<li>Damage Indicators [1.2]</li>
+		<li>Defensive Positions</li>
+		<li>Desire Paths</li>
+		<li>Do Your F****** Research</li>
+		<li>DontBlockDoor[1.0-1.2]</li>
+		<li>[SYR] Doormats</li>
+		<li>Dubs Mint Menus</li>
+		<li>Dubs Break Mod</li>
+		<li>Dubs Mint Minimap</li>
+		<li>Dub's Paint Shop</li>
+		<li>Dubs Performance Analyzer</li>
+		<li>Dubs Skylights</li>
+		<li>JecsTools</li>
+		<li>EdB Prepare Carefully</li>
+		<li>Endless Rimworld</li>
+		<li>Everybody Gets One</li>
+		<li>ETRT: Medicine Production</li>
+		<li>Evil Tactician's RimWorld Tweaks</li>
+		<li>Fast regen 1.2</li>
+		<li>Realistic Rooms</li>
+		<li>[FSF] Filth Vanishes With Rain And Time</li>
+		<li>Fluffy Breakdowns</li>
+		<li>Follow Me</li>
+		<li>Gain Skill Passions</li>
+		<li>Go the F*** to Sleep</li>
+		<li>Graphics Settings+</li>
+		<li>[Kit] Graze up</li>
+		<li>Grazing Lands</li>
+		<li>[FSF] Growable Grass</li>
+		<li>[SYR] Harvest Yield</li>
+		<li>Haul to Stack</li>
+		<li>Hay doesn't need Cooling!</li>
+		<li>Heat Map</li>
+		<li>Home Mover</li>
+		<li>Hospitality</li>
+		<li>Hotseat - Dynamic Storyteller Switcher</li>
+		<li>Hunt for Me</li>
+		<li>I3's Combat Sounds (I3CS)</li>
+		<li>Ignite Everything</li>
+		<li>Impassable Chest-deep Water</li>
+		<li>Interaction Bubbles</li>
+		<li>ItemListSelector</li>
+		<li>Jobs of Opportunity (While You're Up)</li>
+		<li>Just Ignore Me Passing</li>
+		<li>KanbanStockpile</li>
+		<li>Kill For Me</li>
+		<li>Labels on Floor</li>
+		<li>Level Up!</li>
+		<li>[KV] RimFridge</li>
+		<li>LWM's Deep Storage</li>
+		<li>Little Storage 2</li>
+		<li>Locks 2: Lock Them Out!</li>
+		<li>Mad Skills</li>
+		<li>Map Designer</li>
+		<li>Map Reroll</li>
+		<li>Matching Embrasures</li>
+		<li>Medical Tab</li>
+		<li>Metal Don't Burn</li>
+		<li>Milkable Muffalo [1.2]</li>
+		<li>MinifyEverything</li>
+		<li>More Faction Interaction (Continued)</li>
+		<li>[KV] More Trait Slots</li>
+		<li>Mortar Accuracy</li>
+		<li>Mud</li>
+		<li>My Little Planet</li>
+		<li>Netrve's DeepStorage GUI</li>
+		<li>No Forced Slowdown</li>
+		<li>No Job Authors</li>
+		<li>No Random Relations</li>
+		<li>Harvest Organs Post Mortem</li>
+		<li>No Sympathy for Prisoners</li>
+		<li>OgreStack</li>
+		<li>Architect Icons</li>
+		<li>Optional Icons for Architect Icons</li>
+		<li>Out of Combat Move Speed Boost</li>
+		<li>PawnTargetFix</li>
+		<li>Perishable</li>
+		<li>Pharmacist</li>
+		<li>Pick Up And Haul (Continued)</li>
+		<li>Prepare Landing</li>
+		<li>Proxy Heat</li>
+		<li>QualityBuilder</li>
+		<li>Quarry 1.1</li>
+		<li>QualitySurgeon</li>
+		<li>Raise The Roof 1.2</li>
+		<li>Range Finder</li>
+		<li>Real Ruins</li>
+		<li>Realistic Human Sounds (Continued)</li>
+		<li>Realistic Planets - Fan Update</li>
+		<li>Reasonable Components</li>
+		<li>Recipe icons</li>
+		<li>Replace Stuff</li>
+		<li>ResearchPal - Forked</li>
+		<li>RimHUD</li>
+		<li>RimQuest (Continued)</li>
+		<li>RimSaves</li>
+		<li>Room Sense</li>
+		<li>Royalty Tweaks</li>
+		<li>RT Fuse</li>
+		<li>RunAndGun</li>
+		<li>RuntimeGC</li>
+		<li>Search and Destroy</li>
+		<li>[SYR] Set Up Camp</li>
+		<li>SF Grim Reality</li>
+		<li>Share The Load</li>
+		<li>Show Draftees Weapon</li>
+		<li>ShowModDesignators</li>
+		<li>Simple Search Bar</li>
+		<li>Rimworld Search Agency (Continued)</li>
+		<li>Smart Medicine</li>
+		<li>Smart Speed</li>
+		<li>Smarter Construction</li>
+		<li>Skilled Stonecutting</li>
+		<li>Simply More Bridges (Continued)</li>
+		<li>Snap Out!</li>
+		<li>Sometimes Raids Go Wrong</li>
+		<li>Stabilize</li>
+		<li>Stack XXL</li>
+		<li>Stackable Chunks [Continued]</li>
+		<li>Startup impact</li>
+		<li>Stop Insulting Us!</li>
+		<li>Stop, Drop, And Roll! [BAL]</li>
+		<li>Stuffed Floors</li>
+		<li>Subsurface Conduit</li>
+		<li>Suppression</li>
+		<li>Supreme Melee (Continued)</li>
+		<li>Tech Advancing</li>
+		<li>Temperature Control Unit</li>
+		<li>The Price is What?</li>
+		<li>Threat Point Cap</li>
+		<li>TicksPerSecond</li>
+		<li>Tilled Soil</li>
+		<li>TradeHelper</li>
+		<li>[KV] Trading Spot</li>
+		<li>Trait Rarity Colors</li>
+		<li>Transport Cargo Pod</li>
+		<li>Ugh You Got Me</li>
+		<li>Un-Limited</li>
+		<li>Wall Light</li>
+		<li>WanderJoinsPlus</li>
+		<li>Water is Cold</li>
+		<li>What Is My Purpose</li>
+		<li>What's That Mod</li>
+		<li>Where is my weapon?</li>
+		<li>[1.2] Wild Animal Sex V5.0</li>
+		<li>Work Tab</li>
+		<li>What's Missing?</li>
+		<li>Almost There!</li>
+		<li>Area Unlocker</li>
+		<li>Auto-Cut Blight</li>
+		<li>Cheaper Components</li>
+		<li>World Map Beautification Project</li>
+		<li>[O21] HD Pawns</li>
+		<li>[FSF] Advanced Bionics Expansion</li>
+		<li>Advanced Power Plus</li>
+		<li>Alpha Animals</li>
+		<li>Android tiers</li>
+		<li>Anima Animals</li>
+		<li>Advanced Synthetics Manufacturing</li>
+		<li>Animals Logic</li>
+		<li>Beautiful Outdoors</li>
+		<li>Begone, Message!</li>
+		<li>[FSF] Better Spike Traps</li>
+		<li>BioReactor</li>
+		<li>Bionic icons</li>
+		<li>Blood and stains</li>
+		<li>Careful Raids</li>
+		<li>CleaningArea</li>
+		<li>Combat Shields</li>
+		<li>Craftable Plasteel</li>
+		<li>Lag Free Lamps</li>
+		<li>Simple sidearms</li>
+		<li>Vanilla Animals Expanded — Arid Shrubland</li>
+		<li>Vanilla Animals Expanded — Australia</li>
+		<li>Vanilla Animals Expanded — Boreal Forest</li>
+		<li>Vanilla Animals Expanded — Cats and Dogs</li>
+		<li>Vanilla Animals Expanded — Desert</li>
+		<li>Vanilla Animals Expanded — Endangered</li>
+		<li>Vanilla Animals Expanded — Extreme Desert</li>
+		<li>Vanilla Animals Expanded — Ice Sheet</li>
+		<li>Vanilla Animals Expanded — Temperate Forest</li>
+		<li>Vanilla Animals Expanded — Tropical Rainforest</li>
+		<li>Vanilla Animals Expanded — Tropical Swamp</li>
+		<li>Vanilla Animals Expanded — Tundra</li>
+		<li>Vanilla Events Expanded</li>
+		<li>Vanilla Expanded - Royalty Patches</li>
+		<li>Vanilla Factions Expanded - Insectoids</li>
+		<li>Vanilla Factions Expanded - Medieval</li>
+		<li>Vanilla Factions Expanded - Settlers</li>
+		<li>Vanilla Factions Expanded - Vikings</li>
+		<li>Vanilla Furniture Expanded</li>
+		<li>Vanilla Furniture Expanded - Medical Module</li>
+		<li>Vanilla Furniture Expanded - Power</li>
+		<li>Vanilla Furniture Expanded - Production</li>
+		<li>Vanilla Furniture Expanded - Security</li>
+		<li>Vanilla Furniture Expanded - Spacer Module</li>
+		<li>Vanilla Storytellers Expanded - Empress Evil</li>
+		<li>Vanilla Storytellers Expanded - Freya Fierce</li>
+		<li>Vanilla Storytellers Expanded - Igor Invader</li>
+		<li>Vanilla Storytellers Expanded - Perry Persistent</li>
+		<li>Vanilla Textures Expanded</li>
+		<li>Vanilla Traits Expanded</li>
+		<li>VFME - Caravan Packs!</li>
+		<li>DocWorld</li>
+		<li>Animal Variety Coats</li>
+		<li>Xenobionic Patcher</li>
+		<li>Double Population</li>
+		<li>Randy and Cassandra</li>
+		<li>Reinforced Walls</li>
+		<li>Let's Trade! [Continued]</li>
+		<li>[i8m] Plants grow Fast 1</li>
+		<li>Vanilla Apparel Expanded</li>
+		<li>Vanilla Armour Expanded</li>
+		<li>[KV] Show Hair With Hats or Hide All Hats</li>
+		<li>Erin's Hairstyles - Redux</li>
+		<li>Galactic Hairs</li>
+		<li>Gradient Hair</li>
+		<li>Vanilla Hair Expanded</li>
+		<li>Give Me Meat</li>
+		<li>Rimsec Security</li>
+		<li>Sealed Power Armour</li>
+		<li>Vanilla Weapons Expanded - Quickdraw</li>
+		<li>WeaponsTab</li>
+		<li>Bad Can Be Good</li>
+		<li>Autocleaner</li>
+		<li>Giddy-up! Core</li>
+		<li>Giddy-up! Caravan</li>
+		<li>Giddy-up! Battle Mounts</li>
+		<li>Giddy-Up! Add-on: Animal Saddles</li>
+		<li>Incident Disabler</li>
+		<li>Additional Traits (Heroes + Gods Optional)</li>
+		<li>Giddy-up! Ride and Roll</li>
+		<li>Trade Ships No Matter What</li>
+	</modNames>
+</ModList>
